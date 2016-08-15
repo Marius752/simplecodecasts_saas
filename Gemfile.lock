@@ -150,7 +150,7 @@ DEPENDENCIES
   rails_12factor
   sass-rails (= 4.0.3)
   sdoc (= 0.4.0)
-  sendgrid
+  sendgrid (= 1.2.4)
   spring
   sqlite3
   turbolinks
