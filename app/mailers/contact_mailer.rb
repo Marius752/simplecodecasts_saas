@@ -1,6 +1,6 @@
 ###app/mailers/contact_mailer.rb
 class ContactMailer < ActionMailer::Base
-  default to: 'your@email_address.com'
+  default to: 'marius.code.all@gmail.com'
   
   def contact_email(name, email, body)
     @name = name
